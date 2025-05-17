@@ -1,5 +1,5 @@
-## Reg.no:212222110056
-## NAME:Yuva Krishna K
+## Reg.no: 212223230128
+## NAME: MUKESH.B
 # Metasploit-for-reconnaissance
 # Metasploit
 Metasploit for reconnaissance in pentesting
